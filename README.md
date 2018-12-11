@@ -14,6 +14,7 @@ The datasets can be obtained from google and won't be distributed here. However 
 
 - [Boston.csv](https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/MASS/Boston.csv)
 - [Auto.data](http://www-bcf.usc.edu/~gareth/ISL/Auto.data)
+- [Carseats.csv](https://raw.githubusercontent.com/selva86/datasets/master/Carseats.csv)
 
 The preprocessing in the notebooks targets those exact files.
 
